@@ -1,3 +1,4 @@
+/*Demo on a simple calculator*/
 import java.util.Scanner;
 
  public class calculator
